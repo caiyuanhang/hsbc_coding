@@ -1,0 +1,7 @@
+.name, .time {
+  text-align: center;
+}
+
+.time >span {
+  margin-right: 10px;
+}
